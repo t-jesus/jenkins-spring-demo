@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:\Spring-SpringMVC-MyBatis-Maven\src\SSMDemo.iml" filepath="D:\Spring-SpringMVC-MyBatis-Maven\src\SSMDemo.iml" />
+      <module fileurl="file://D:\Spring-SpringMVC-MyBatis-Maven\src\main\main.iml" filepath="D:\Spring-SpringMVC-MyBatis-Maven\src\main\main.iml" />
+      <module fileurl="file://D:\Spring-SpringMVC-MyBatis-Maven\maven.iml" filepath="D:\Spring-SpringMVC-MyBatis-Maven\maven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm.iml" filepath="$PROJECT_DIR$/ssm.iml" />
+    </modules>
+  </component>
+</project>
